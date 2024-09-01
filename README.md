@@ -16,11 +16,12 @@ print(m)
 print(s)
 ```
 
-3줄을 입력하고 실행하면 input()은 개행문자가 생략됨을 확인
-input() test              
-sys.stdin.readline() test
-inp() test
-input() test
-sys.stdin.readline() test
-
-inp() test
+3줄을 입력하고 실행하면 input()은 개행문자가 생략됨을 확인<br>
+input() test<br>        
+sys.stdin.readline() test<br>
+inp() test<br>
+input() test<br>
+sys.stdin.readline() test<br>
+<br>
+inp() test<br>
+<br>

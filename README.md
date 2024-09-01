@@ -11,10 +11,11 @@ m=sys.stdin.readline()
 
 s=inp()
 
-print(n)
-print(m)
-print(s)
+print("result1:", n)
+print("result2:", m)
+print("result3:", s)
 ```
 
 3줄을 입력하고 실행하면 input()은 개행문자가 생략됨을 확인<br>
-![image](https://github.com/user-attachments/assets/173f913b-84d9-4414-87d8-af47d8c0316c)
+![image](https://github.com/user-attachments/assets/4551a40a-a1a2-4b73-b4ee-fd6c116ccc21)
+

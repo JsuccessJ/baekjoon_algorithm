@@ -17,11 +17,4 @@ print(s)
 ```
 
 3줄을 입력하고 실행하면 input()은 개행문자가 생략됨을 확인<br>
-input() test        
-sys.stdin.readline() test<br>
-inp() test<br>
-input() test<br>
-sys.stdin.readline() test<br>
-<br>
-inp() test<br>
-<br>
+![image](https://github.com/user-attachments/assets/173f913b-84d9-4414-87d8-af47d8c0316c)

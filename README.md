@@ -17,7 +17,7 @@ print(s)
 ```
 
 3줄을 입력하고 실행하면 input()은 개행문자가 생략됨을 확인<br>
-input() test<br>        
+input() test        
 sys.stdin.readline() test<br>
 inp() test<br>
 input() test<br>
